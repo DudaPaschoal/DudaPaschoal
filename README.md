@@ -1,5 +1,5 @@
 # Duda Paschoal
-Olá, tenho 21 anos, sou atualmente formada em Farmácia, migrando para área de programação, minhas aulas de Análise e Desenvolvimento de Sistemas se iniciam agora em Julho e estou ansiosa para aprender e me desenvolver. Enquanto espero o inicio das aulas estou realizando cursos para aprender o básico. 
+Olá, tenho 22 anos, sou atualmente formada em Farmácia, migrando para área de programação, estou cursando Análise e Desenvolvimento de Sistemas e fazendo estágio na Área de Análise de Dados. 
 
 
 ## Conecte-se comigo
